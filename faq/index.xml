@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</title>
-    <link>localhost:1313/faq/</link>
+    <link>https://eatwithdjem.github.io/website/faq/</link>
     <description>Recent content in FAQ on Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://eatwithdjem.github.io/website/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

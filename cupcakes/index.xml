@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cupcakes on Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</title>
-    <link>localhost:1313/cupcakes/</link>
+    <link>https://eatwithdjem.github.io/website/cupcakes/</link>
     <description>Recent content in Cupcakes on Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="localhost:1313/cupcakes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://eatwithdjem.github.io/website/cupcakes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boites de 6 cupcakes blancs</title>
-      <link>localhost:1313/cupcakes/cupcake-blanc/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-blanc/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-blanc/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-blanc/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes bleus</title>
-      <link>localhost:1313/cupcakes/cupcake-bleu/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-bleu/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-bleu/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-bleu/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes Hello Kitty</title>
-      <link>localhost:1313/cupcakes/cupcake-hello-kitty/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-hello-kitty/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-hello-kitty/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-hello-kitty/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes marrons</title>
-      <link>localhost:1313/cupcakes/cupcake-marron/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-marron/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-marron/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-marron/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes roses</title>
-      <link>localhost:1313/cupcakes/cupcake-rose/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-rose/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-rose/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-rose/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes verts</title>
-      <link>localhost:1313/cupcakes/cupcake-vert/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-vert/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-vert/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-vert/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Boites de 6 cupcakes violets</title>
-      <link>localhost:1313/cupcakes/cupcake-violet/</link>
+      <link>https://eatwithdjem.github.io/website/cupcakes/cupcake-violet/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>localhost:1313/cupcakes/cupcake-violet/</guid>
+      <guid>https://eatwithdjem.github.io/website/cupcakes/cupcake-violet/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
