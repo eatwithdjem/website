@@ -1,108 +1,270 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hargo | Hugo Ecommerce Site</title>
-    <link>https://demo.gethugothemes.com/hargo/site/</link>
-    <description>Recent content on Hargo | Hugo Ecommerce Site</description>
+    <title>Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</title>
+    <link>localhost:1313/</link>
+    <description>Recent content on Eat with Djem - Traiteur - Mignardises &amp; Cupcakes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/hargo/site/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
-      <link>https://demo.gethugothemes.com/hargo/site/blog/post-2/</link>
+      <title>Boites de 6 cupcakes blancs</title>
+      <link>localhost:1313/cupcakes/cupcake-blanc/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/blog/post-2/</guid>
+      <guid>localhost:1313/cupcakes/cupcake-blanc/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes bleus</title>
+      <link>localhost:1313/cupcakes/cupcake-bleu/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-bleu/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes Hello Kitty</title>
+      <link>localhost:1313/cupcakes/cupcake-hello-kitty/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-hello-kitty/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes marrons</title>
+      <link>localhost:1313/cupcakes/cupcake-marron/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-marron/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes roses</title>
+      <link>localhost:1313/cupcakes/cupcake-rose/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-rose/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes verts</title>
+      <link>localhost:1313/cupcakes/cupcake-vert/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-vert/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boites de 6 cupcakes violets</title>
+      <link>localhost:1313/cupcakes/cupcake-violet/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/cupcakes/cupcake-violet/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Chèvre Légumes Grillés</title>
+      <link>localhost:1313/mignardises/chevre-legumes-grilles/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/chevre-legumes-grilles/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Chèvre Légumes Grillés</title>
+      <link>localhost:1313/products2/chevre-legumes-grilles/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/chevre-legumes-grilles/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Hot-dog</title>
+      <link>localhost:1313/mignardises/hot-dog/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/hot-dog/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Hot-dog</title>
+      <link>localhost:1313/products2/hot-dog/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/hot-dog/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
+      <link>localhost:1313/blog/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/blog/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Italien</title>
+      <link>localhost:1313/mignardises/italien/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/italien/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Italien</title>
+      <link>localhost:1313/products2/italien/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/italien/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Oriental</title>
+      <link>localhost:1313/mignardises/oriental/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/oriental/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Oriental</title>
+      <link>localhost:1313/products2/oriental/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/oriental/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Le Libanais</title>
+      <link>localhost:1313/mignardises/libanais/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/libanais/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Le Libanais</title>
+      <link>localhost:1313/products2/libanais/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/libanais/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Le Mexicain</title>
+      <link>localhost:1313/mignardises/mexicain/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/mexicain/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Le Mexicain</title>
+      <link>localhost:1313/products2/mexicain/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/mexicain/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Long Bacon</title>
+      <link>localhost:1313/mignardises/long-bacon/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/mignardises/long-bacon/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Long Bacon</title>
+      <link>localhost:1313/products2/long-bacon/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>localhost:1313/products2/long-bacon/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Lower Back Pain? Self-Administered Acupressure Could Help</title>
-      <link>https://demo.gethugothemes.com/hargo/site/blog/post-1/</link>
+      <link>localhost:1313/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/blog/post-1/</guid>
+      <guid>localhost:1313/blog/post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-cream.1/</link>
+      <title>Poulet César</title>
+      <link>localhost:1313/mignardises/poulet-cesar/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-cream.1/</guid>
+      <guid>localhost:1313/mignardises/poulet-cesar/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-cream.2/</link>
+      <title>Poulet César</title>
+      <link>localhost:1313/products2/poulet-cesar/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-cream.2/</guid>
+      <guid>localhost:1313/products2/poulet-cesar/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-cream/</link>
+      <title>Verrine Poulet Dynamite</title>
+      <link>localhost:1313/mignardises/verrine-poulet-dynamite/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-cream/</guid>
+      <guid>localhost:1313/mignardises/verrine-poulet-dynamite/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.1/</link>
+      <title>Verrine Poulet Dynamite</title>
+      <link>localhost:1313/products2/verrine-poulet-dynamite/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.1/</guid>
+      <guid>localhost:1313/products2/verrine-poulet-dynamite/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.2/</link>
+      <title>Verrine Tomate Stracciatella</title>
+      <link>localhost:1313/mignardises/verrine-tomate-stracciatella/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.2/</guid>
+      <guid>localhost:1313/mignardises/verrine-tomate-stracciatella/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Facewash</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-facewash/</link>
+      <title>Verrine Tomate Stracciatella</title>
+      <link>localhost:1313/products2/verrine-tomate-stracciatella/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-facewash/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo/</guid>
+      <guid>localhost:1313/products2/verrine-tomate-stracciatella/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     

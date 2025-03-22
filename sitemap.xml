@@ -2,59 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.gethugothemes.com/hargo/site/blog/</loc>
+    <loc>localhost:1313/blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/contact/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-blanc/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/faq/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-bleu/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-hello-kitty/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/blog/post-2/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-marron/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/blog/post-1/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-rose/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-vert/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-cream.1/</loc>
+    <loc>localhost:1313/cupcakes/cupcake-violet/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-cream.2/</loc>
+    <loc>localhost:1313/mignardises/chevre-legumes-grilles/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-cream/</loc>
+    <loc>localhost:1313/products2/chevre-legumes-grilles/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.1/</loc>
+    <loc>localhost:1313/contact/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-facewash.2/</loc>
+    <loc>localhost:1313/cupcakes/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-facewash/</loc>
+    <loc>localhost:1313/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.1/</loc>
+    <loc>localhost:1313/faq/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo.2/</loc>
+    <loc>localhost:1313/mignardises/hot-dog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/products/taba-shampoo/</loc>
+    <loc>localhost:1313/products2/hot-dog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/terms-conditions/</loc>
+    <loc>localhost:1313/blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/categories/</loc>
+    <loc>localhost:1313/mignardises/italien/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://demo.gethugothemes.com/hargo/site/tags/</loc>
+    <loc>localhost:1313/products2/italien/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/oriental/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/oriental/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/libanais/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/libanais/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/mexicain/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/mexicain/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/long-bacon/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/long-bacon/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/blog/post-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/poulet-cesar/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/poulet-cesar/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/terms-conditions/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/verrine-poulet-dynamite/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/verrine-poulet-dynamite/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/mignardises/verrine-tomate-stracciatella/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/products2/verrine-tomate-stracciatella/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>localhost:1313/categories/</loc>
+  </url><url>
+    <loc>localhost:1313/tags/</loc>
   </url>
 </urlset>
