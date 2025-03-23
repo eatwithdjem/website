@@ -8,7 +8,7 @@
     <language>fr</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Boites de 6 cupcakes blancs</title>
+      <title>Boite de 6 cupcakes blancs</title>
       <link>/cupcakes/cupcake-blanc/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes bleus</title>
+      <title>Boite de 6 cupcakes bleus</title>
       <link>/cupcakes/cupcake-bleu/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes Hello Kitty</title>
+      <title>Boite de 6 cupcakes Hello Kitty</title>
       <link>/cupcakes/cupcake-hello-kitty/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes marrons</title>
+      <title>Boite de 6 cupcakes marrons</title>
       <link>/cupcakes/cupcake-marron/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes roses</title>
+      <title>Boite de 6 cupcakes roses</title>
       <link>/cupcakes/cupcake-rose/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -53,7 +53,16 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes verts</title>
+      <title>Boite de 6 cupcakes rouge</title>
+      <link>/cupcakes/cupcake-rouge/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/cupcakes/cupcake-rouge/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Boite de 6 cupcakes verts</title>
       <link>/cupcakes/cupcake-vert/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -62,7 +71,7 @@
     </item>
     
     <item>
-      <title>Boites de 6 cupcakes violets</title>
+      <title>Boite de 6 cupcakes violets</title>
       <link>/cupcakes/cupcake-violet/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -85,15 +94,6 @@
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>/mignardises/hot-dog/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
-      <link>/blog/post-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
@@ -143,15 +143,6 @@
     </item>
     
     <item>
-      <title>Lower Back Pain? Self-Administered Acupressure Could Help</title>
-      <link>/blog/post-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>/blog/post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
       <title>Poulet César</title>
       <link>/mignardises/poulet-cesar/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -161,7 +152,7 @@
     </item>
     
     <item>
-      <title>Verrine Poulet Dynamite</title>
+      <title>Verrine poulet dynamite</title>
       <link>/mignardises/verrine-poulet-dynamite/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -170,7 +161,7 @@
     </item>
     
     <item>
-      <title>Verrine Tomate Stracciatella</title>
+      <title>Verrine tomate stracciatella</title>
       <link>/mignardises/verrine-tomate-stracciatella/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
